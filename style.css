@@ -1,0 +1,18 @@
+#header1{
+    color: rgb(43, 57, 87);
+    font-size: 50px;
+    font-family: 'Georgia';
+    text-align: center;
+}
+
+#header2{
+    color: rgba(50, 71, 43, 0.984);
+    font-size: 75px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.bgColor{
+    background-color: rgba(80, 83, 83, 0.537);
+
+}
